@@ -17,7 +17,7 @@ customtkinter.set_default_color_theme('blue')
 
 # OUR APP FRAME
 app = customtkinter.CTk()
-app.geometry('880x480')
+app.geometry('840x480')
 app.title('Google Translation')
 
 # THE APP TITLE
